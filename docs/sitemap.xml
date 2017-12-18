@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/post/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/post/getting-started/</loc>
+      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/post/widgets/</loc>
+      <lastmod>2016-04-19T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/post/managing-content/</loc>
+      <lastmod>2016-04-18T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/post/writing-markdown-latex/</loc>
+      <lastmod>2016-04-17T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/post/faq/</loc>
+      <lastmod>2016-04-10T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/post/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/tags/academic/</loc>
+      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/tags/hugo/</loc>
+      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/tags/jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/tags/</loc>
+      <lastmod>2017-09-03T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://theory.ucr.edu/</loc>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>

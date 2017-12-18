@@ -19,6 +19,49 @@
       {{ .name }}
       <br />
       <span style="font-size: 0.8rem;">{{ .position }}</span>
+      <br />
+      {{ if .inspire }}
+        <span style="font-size: 1rem;">
+          <a itemprop="sameAs" href="{{ .inspire }}" rel="noopener">
+          <i class="ai ai-inspire"></i>
+          </a>
+        </span>
+      {{ end }}
+      {{ if .arxiv }}
+        <span style="font-size: 1rem;">
+          <a itemprop="sameAs" href="{{ .arxiv }}" rel="noopener">
+          <i class="ai ai-arxiv"></i>
+          </a>
+        </span>
+      {{ end }}
+      {{ if .orcid }}
+        <span style="font-size: 1rem;">
+          <a itemprop="sameAs" href="{{ .orcid }}" rel="noopener">
+          <i class="ai ai-orcid"></i>
+          </a>
+        </span>
+      {{ end }}
+      {{ if .googlescholar }}
+        <span style="font-size: 1rem;">
+          <a itemprop="sameAs" href="{{ .googlescholar }}" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+          </a>
+        </span>
+      {{ end }}
+      {{ if .github }}
+        <span style="font-size: 1rem;">
+          <a itemprop="sameAs" href="{{ .github }}" rel="noopener">
+          <i class="fa fa-github"></i>
+          </a>
+        </span>
+      {{ end }}
+      {{ if .twitter }}
+        <span style="font-size: 1rem;">
+          <a itemprop="sameAs" href="{{ .twitter }}" rel="noopener">
+          <i class="fa fa-twitter"></i>
+          </a>
+        </span>
+      {{ end }}
 </div>
   {{ end }}
 {{ end }}
